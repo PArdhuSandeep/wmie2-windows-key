@@ -1,5 +1,8 @@
 # Download: https://git.io/wmie2
 
+# Run this in the Query
+select * from SoftwareLicensingService
+
 
 WMI Explorer is a utility intended to provide the ability to browse and view WMI namespaces/classes/instances/properties in a single pane of view and is inspired by the PowerShell based WMI Explorer written by Marc.
 
